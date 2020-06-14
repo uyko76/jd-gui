@@ -38,3 +38,4 @@ build/
 
 # WinMerge
 *.bak
+/bin/
